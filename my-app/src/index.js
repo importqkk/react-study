@@ -8,11 +8,12 @@ import reportWebVitals from './reportWebVitals'
 // import Clock from './chapter_04/Clock'
 // import CommentList from './chapter_05/CommentList'
 // import NotificationList from './chapter_06/NotificationList'
-import Accomodate from './chapter_07/Accomodate'
+// import Accomodate from './chapter_07/Accomodate'
+import ConfirmButton from './chapter_08/ConfirmButton'
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
-  <Accomodate />
+  <ConfirmButton />
 )
 
 // If you want to start measuring performance in your app, pass a function
