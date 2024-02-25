@@ -16,10 +16,11 @@ import reportWebVitals from './reportWebVitals'
 // import Calculator from './chapter_12/Calculator'
 // import ProfileCard from './chapter_13/ProfileCard'
 import DarkOrLight from './chapter_14/DarkOrLight'
+import MainPage from './chapter_15/MianPage'
 
 const root = ReactDOM.createRoot(document.getElementById("root"))
 root.render(
-  <DarkOrLight />
+  <MainPage />
 )
 
 // If you want to start measuring performance in your app, pass a function
